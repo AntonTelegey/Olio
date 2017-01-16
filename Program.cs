@@ -83,7 +83,7 @@ namespace olio1
             {
                 Console.Write(array[i] + " ");
             }
-            Console.WriteLine("\b Nimet aakkosjärjetyksessä: ");
+            Console.WriteLine("\n Nimet aakkosjärjetyksessä: ");
             Array.Sort(array);
             foreach (string k in array)
             {
